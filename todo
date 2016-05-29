@@ -1,0 +1,5 @@
+clone
+copy existing files
+set diretory paths for read.csv
+divide Fare by number of persons with same ticket
+make features based on deck an cabin
